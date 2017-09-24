@@ -1,0 +1,16 @@
+{
+  "name": "align-text",
+  "main": "./lib/align-text",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": null,
+  "repository": "https://github.com/atom/align-text",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

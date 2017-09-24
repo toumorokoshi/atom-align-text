@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "align text",
+        "command": "align-text:align"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Align Text",
+          "submenu": [
+            {
+              "label": "align",
+              "command": "align-text:align"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
